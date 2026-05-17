@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #f4f6f8;
+}
+
+.app {
+  width: 90%;
+  margin: auto;
+}
+
+.header {
+  background: black;
+  color: white;
+  padding: 20px;
+}
+
+.course-card {
+  background: white;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+.btn {
+  background: blue;
+  color: white;
+  padding: 8px;
+  border: none;
+}
+
+.btn.favorite {
+  background: red;
+}
